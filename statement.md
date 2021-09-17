@@ -1,9 +1,11 @@
-# Welcome!
+# BemVindo!
 
-This Swift template lets you get started quickly with a simple one-page playground.
+Este é um tutorial sobre arrays em Swift
 
 ```swift runnable
-print("Hello World!")
+let vet = [1,2,3]
+print(vet)
+
 ```
 
 # Advanced usage
